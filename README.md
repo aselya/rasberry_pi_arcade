@@ -10,4 +10,4 @@ Features that will be added in a future release:
 Additional Games
 More secure password storage
 Additional Statistic tracking
-Multiplayer over the net (long term) 
+Multiplayer over the web (long term) 
